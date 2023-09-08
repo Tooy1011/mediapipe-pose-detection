@@ -142,7 +142,9 @@ bazel build -c opt mediapipe/graphs/pose_tracking:pose_tracking_gpu_binary_graph
   ```
     目前 MediaPipe 中没有后两个文件，官方文档也还在更新
     可以到 [https://storage.googleapis.com/mediapipe-assets/](https://storage.googleapis.com/mediapipe-assets/) 查询
+  
     [pose_detection.tflite](https://storage.googleapis.com/mediapipe-assets/pose_detection.tflite)
+  
     [pose_landmark_full.tflite](https://storage.googleapis.com/mediapipe-assets/pose_landmark_full.tflite)
 
 项目代码可参考 https://gitee.com/luo_zhi_chengMediapipe_pose_Tracking_AAR_example
